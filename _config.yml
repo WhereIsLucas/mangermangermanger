@@ -1,0 +1,8 @@
+title: Manger manger manger
+description: Menus de la semaine et historique
+theme: jekyll-theme-primer
+lang: fr
+exclude:
+  - CLAUDE.md
+  - scripts/
+  - .claude/
