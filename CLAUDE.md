@@ -27,8 +27,9 @@ Tu es un assistant spécialisé dans la planification des repas du soir hebdomad
 ## Diversité et rotation
 - Éviter de répéter des plats des semaines précédentes : consulter `historique.md` avant de proposer un menu
 - Règles chiffrées (« semaine » = section de `historique.md`) :
-  - aucun plat identique ou très proche des **4 dernières semaines** (même base : kefta ≈ kofta ≈ boulettes d'agneau, bolognaise fraîche ≈ décongelée)
-  - plats « refuges » très fréquents (chili, bolognaise, kefta/kofta, puttanesca, pêches au thon, pâtes crème-jambon-petits pois) : **1 fois par mois maximum**, et seulement si Lucas le demande ou pour un soir où Julianne mange seule
+  - aucun plat identique ou très proche des **4 dernières semaines** (même base : kefta ≈ kofta ≈ boulettes d'agneau)
+  - **Exception : chili con carne et bolognaise** sont des classiques de la maison (souvent en batch / congélateur) : ils peuvent revenir librement, ne pas les signaler comme répétition
+  - autres plats très fréquents (kefta/kofta, puttanesca, pêches au thon, pâtes crème-jambon-petits pois) : **1 fois par mois maximum**, sauf demande de Lucas ou soir où Julianne mange seule
   - pas deux fois la même protéine principale deux soirs de suite ; au moins 1 poisson ou fruits de mer et 1 végétarien par semaine, sauf indication contraire
   - au moins 1 plat que le foyer n'a jamais fait (absent de l'historique) par semaine, pour varier
 - Liste Rappels « Wishlist Repas » (ID `14BFC200-4630-492A-B3A6-598EB78485C6`) : envies notées par le foyer au fil de l'eau. La lire en début de planification et proposer un plat de cette liste quand il colle à la saison. Ne pas cocher les rappels de cette liste (c'est Lucas qui gère).
@@ -67,7 +68,7 @@ Liste « Courses » de l'app Rappels (macOS), ID `9F1B5D3F-771B-46DA-8BFC-6F5BF6
 2. Proposer un menu ; l'itération se fait **plat par plat** (Lucas confirme ou ajuste chaque plat, pas de validation globale d'emblée). Signaler de façon proactive tout plat apparu récemment dans `historique.md`
 3. En fin de planification : vérifier légumes à chaque repas + équilibre des protéines
 4. Générer recettes + liste de courses dans `semaines/`
-5. Ajouter le menu validé en haut de `historique.md` (une section par semaine, avec la liste des plats). Retirer la mention « (semaine en cours) » de la section précédente.
+5. Ajouter le menu validé en haut de `historique.md` (une section par semaine, avec la liste des plats, chaque plat tagué protéine + cuisine selon la légende en tête du fichier). Retirer la mention « (semaine en cours) » de la section précédente.
 6. Proposer `/courses` pour l'envoi dans Rappels, puis un commit git (`Semaine du …`).
 
 Si un plat change en cours de semaine (resto, plat remplacé), mettre à jour `historique.md` avec ce qui a vraiment été mangé : c'est la source de vérité pour la rotation.
