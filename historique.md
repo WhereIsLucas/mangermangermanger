@@ -7,12 +7,12 @@ Plus récent en haut. Consulter avant chaque proposition pour éviter les répé
 - **Cuisine** : `italienne` `grecque` `espagnole` `libanaise` `méditerranéenne` (générique) `marocaine` `française` `belge` `tex-mex` `mexicaine` `péruvienne` `américaine` `suédoise` `moyen-orientale` `indienne` `thaïe` `vietnamienne` `chinoise` `japonaise` `coréenne` `hawaïenne`
 - **Autres** (optionnels) : `batch`, `petit-déj`, `midi`, `resto`/`box` (pas cuisiné)
 
-## Lun 9 nov au Ven 13 nov 2026 (semaine en cours)
+## Lun 9 nov au Sam 14 nov 2026 (semaine en cours)
 - Cabillaud au four, tomates cerises confites, olives & brocoli rôti `poisson` `méditerranéenne`
 - Filet mignon moutarde-miel, choux de Bruxelles & panais rôtis `porc` `française`
 - Spaghetti bolognaise & salade de mâche `bœuf` `italienne`
-- Risotto au potimarron, sauge & parmesan `végétarien` `italienne`
 - Parmentier de canard & patates douces, salade verte `volaille` `française`
+- Risotto au potimarron, sauge & parmesan (samedi ; jeudi en extérieur) `végétarien` `italienne`
 - Petits-déj batch : baked oats pomme-cannelle, granola, muffins potimarron `petit-déj` `batch`
 
 ## Mer 4 nov au Dim 8 nov 2026

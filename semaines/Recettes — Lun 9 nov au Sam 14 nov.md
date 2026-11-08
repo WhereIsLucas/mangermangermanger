@@ -1,4 +1,4 @@
-# Recettes — Lun 9 nov au Ven 13 nov
+# Recettes — Lun 9 nov au Sam 14 nov
 *2 personnes, produits de saison*
 
 | Jour | Plat | Pour |
@@ -7,8 +7,9 @@
 | Lundi 9 | Cabillaud au four, tomates cerises confites, olives & brocoli rôti | 2 |
 | Mardi 10 | Filet mignon moutarde-miel, choux de Bruxelles & panais rôtis | 2 |
 | Mercredi 11 | Spaghetti bolognaise & salade de mâche · Batch petit-déj : muffins potimarron | 2 |
-| Jeudi 12 | Risotto au potimarron, sauge & parmesan 🌱 | 2 |
+| Jeudi 12 | Extérieur (pas de recette) | — |
 | Vendredi 13 | Parmentier de canard & patates douces, salade verte | 2 |
+| Samedi 14 | Risotto au potimarron, sauge & parmesan 🌱 | 2 |
 
 *✅ = en stock. Supposé au placard : huile d'olive, vinaigre, moutarde de Dijon, origan séché, muscade, sel, poivre.*
 
@@ -113,38 +114,6 @@
 
 ---
 
-## Jeudi 12 — Risotto au potimarron, sauge & parmesan 🌱
-*Environ 40 min. Le potimarron se cuisine avec la peau. En garder ~250 g pour les muffins de mercredi : couper cette part mercredi.*
-
-### Ingrédients (2 personnes)
-- 500 g de potimarron (sur un potimarron de 1,2-1,5 kg)
-- 200 g de riz arborio
-- 1 L de bouillon de légumes (2 cubes)
-- 1 oignon jaune
-- 10 cl de vin blanc sec
-- 8 feuilles de sauge fraîche
-- 60 g de parmesan râpé
-- 30 g de beurre
-- 2 c.s. d'huile d'olive ✅
-- Sel, poivre ✅
-- Muscade ✅
-
-### Recette
-1. Épépiner le potimarron et le couper en dés de 1,5 cm, avec la peau.
-2. Faire chauffer le bouillon et le garder frémissant sur le feu.
-3. Dans une sauteuse, faire suer l'oignon finement haché dans l'huile d'olive 4 min. Ajouter les deux tiers des dés de potimarron, cuire 5 min.
-4. Ajouter le riz, le nacrer 2 min en remuant jusqu'à ce qu'il devienne translucide sur les bords.
-5. Déglacer au vin blanc et laisser absorber.
-6. Ajouter le bouillon louche par louche, en attendant qu'il soit presque absorbé avant la suivante. Remuer souvent. Compter 18 min.
-7. À mi-cuisson, ajouter le reste des dés de potimarron : ils resteront en morceaux, alors que les premiers fondent et rendent le risotto crémeux.
-8. Pendant ce temps, faire grésiller les feuilles de sauge dans le beurre à feu moyen 1-2 min jusqu'à ce qu'elles soient croustillantes. Réserver les feuilles et le beurre.
-9. Hors du feu, ajouter le beurre à la sauge et le parmesan. Couvrir 2 min, puis mélanger vigoureusement. Saler, poivrer, râper un peu de muscade.
-10. Servir aussitôt, avec les feuilles de sauge croustillantes sur le dessus.
-
-👶 *Portion bébé : prélever avant le parmesan et le sel ; le potimarron fondu donne une texture parfaite.*
-
----
-
 ## Vendredi 13 — Parmentier de canard & patates douces, salade verte
 *Environ 1 h 10, dont 25 min de four. Les cuisses confites en boîte font gagner tout le temps de cuisson du canard.*
 
@@ -180,6 +149,38 @@
 9. Servir avec la salade assaisonnée au dernier moment.
 
 👶 *Portion bébé : prélever de la purée avant le sel ; le confit étant très salé, servir surtout la purée et peu de canard.*
+
+---
+
+## Samedi 14 — Risotto au potimarron, sauge & parmesan 🌱
+*Environ 40 min. Le potimarron se cuisine avec la peau. En garder ~250 g pour les muffins de mercredi : couper cette part mercredi, puis filmer le reste au frigo (tient jusqu'à samedi). Conserver la sauge dans un essuie-tout humide au frigo.*
+
+### Ingrédients (2 personnes)
+- 500 g de potimarron (sur un potimarron de 1,2-1,5 kg)
+- 200 g de riz arborio
+- 1 L de bouillon de légumes (2 cubes)
+- 1 oignon jaune
+- 10 cl de vin blanc sec
+- 8 feuilles de sauge fraîche
+- 60 g de parmesan râpé
+- 30 g de beurre
+- 2 c.s. d'huile d'olive ✅
+- Sel, poivre ✅
+- Muscade ✅
+
+### Recette
+1. Épépiner le potimarron et le couper en dés de 1,5 cm, avec la peau.
+2. Faire chauffer le bouillon et le garder frémissant sur le feu.
+3. Dans une sauteuse, faire suer l'oignon finement haché dans l'huile d'olive 4 min. Ajouter les deux tiers des dés de potimarron, cuire 5 min.
+4. Ajouter le riz, le nacrer 2 min en remuant jusqu'à ce qu'il devienne translucide sur les bords.
+5. Déglacer au vin blanc et laisser absorber.
+6. Ajouter le bouillon louche par louche, en attendant qu'il soit presque absorbé avant la suivante. Remuer souvent. Compter 18 min.
+7. À mi-cuisson, ajouter le reste des dés de potimarron : ils resteront en morceaux, alors que les premiers fondent et rendent le risotto crémeux.
+8. Pendant ce temps, faire grésiller les feuilles de sauge dans le beurre à feu moyen 1-2 min jusqu'à ce qu'elles soient croustillantes. Réserver les feuilles et le beurre.
+9. Hors du feu, ajouter le beurre à la sauge et le parmesan. Couvrir 2 min, puis mélanger vigoureusement. Saler, poivrer, râper un peu de muscade.
+10. Servir aussitôt, avec les feuilles de sauge croustillantes sur le dessus.
+
+👶 *Portion bébé : prélever avant le parmesan et le sel ; le potimarron fondu donne une texture parfaite.*
 
 ---
 
@@ -230,7 +231,7 @@
 ---
 
 ## Mercredi 11 — Batch petit-déj : muffins potimarron, épices & noix
-*Couvre jeudi → samedi, avec le granola restant et un yaourt. Environ 15 min de préparation et 25 min de four. Le potimarron vient du même légume que le risotto de jeudi.*
+*Couvre jeudi → samedi, avec le granola restant et un yaourt. Environ 15 min de préparation et 25 min de four. Le potimarron vient du même légume que le risotto de samedi.*
 
 ### Ingrédients (10 muffins)
 - 250 g de potimarron (pris sur celui du risotto)
@@ -286,13 +287,6 @@
 - Vin rouge *(optionnel)*
 - 1 sachet de mâche (~150 g)
 
-### 🎃 Risotto potimarron & sauge (jeudi)
-- 1 potimarron de 1,2-1,5 kg *(dont ~250 g pour les muffins de mercredi)*
-- 200 g de riz arborio
-- Bouillon de légumes (cubes)
-- Sauge fraîche
-- Vin blanc sec
-
 ### 🦆 Parmentier de canard & patates douces (vendredi)
 - 1 boîte de cuisses de canard confites (3-4 cuisses)
 - 800 g de patates douces
@@ -301,9 +295,16 @@
 - Chapelure
 - 1 laitue ou feuille de chêne
 
+### 🎃 Risotto potimarron & sauge (samedi)
+- 1 potimarron de 1,2-1,5 kg *(dont ~250 g pour les muffins de mercredi)*
+- 200 g de riz arborio
+- Bouillon de légumes (cubes)
+- Sauge fraîche
+- Vin blanc sec
+
 ### 🧺 Communs à plusieurs repas
 - 1 tête d'ail (lundi, mardi, mercredi, vendredi)
-- 2 oignons jaunes (mercredi, jeudi)
+- 2 oignons jaunes (mercredi, samedi)
 - 1 bouquet de thym frais (lundi, mardi)
-- 150 g de parmesan (mercredi, jeudi)
-- 50 g de beurre (jeudi, vendredi)
+- 150 g de parmesan (mercredi, samedi)
+- 50 g de beurre (vendredi, samedi)
