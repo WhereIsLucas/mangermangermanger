@@ -3,7 +3,7 @@
 
 | Jour | Plat | Pour |
 |------|------|------|
-| Samedi 14 | … | 2 |
+| Samedi 14 | [Nom du plat](../recipes/slug-du-plat.md) | 2 |
 | Dimanche 15 | … | 2 |
 | Lundi 16 | … | Julianne (1) |
 | Mardi 17 | … | 2 |
@@ -11,40 +11,18 @@
 | Jeudi 19 | … | 2 |
 | Vendredi 20 | … | 2 |
 
-*✅ = en stock. Supposé au placard : huile d'olive, huile neutre, vinaigre, sel, poivre, sucre, farine, épices courantes, concentré de tomate. À corriger si besoin.*
+*En stock : … Supposé au placard : huile d'olive, huile neutre, vinaigre, sel, poivre, sucre, farine, épices courantes, concentré de tomate. À corriger si besoin.*
 
 ---
 
-## Samedi 14 — Nom du plat
-*Durée totale, difficulté, remarque (plat long, batch, restes pour le lendemain…).*
-
-### Ingrédients (2 personnes)
-**Composant 1**
-- 400 g de …
-- 1 oignon ✅
-
-**Composant 2**
+# Organisation de la semaine
+- **Samedi 14** : ce qui est propre à cette semaine (batch, restes pour le lendemain, légume partagé avec un autre plat, ce qui se prépare la veille, quantités si on n'est pas 2).
 - …
-
-**Accompagnement légumes**
-- …
-
-### Recette
-**Composant 2 (à faire en premier / peut se faire la veille)**
-1. …
-
-**Composant 1**
-1. …
-
-**Dressage**
-1. …
-
-👶 *Portion bébé : ce qu'il faut prélever, et à quel moment (avant sel / épices / sucre).*
 
 ---
 
 # Liste de courses
-*Commande Delhaize. Ingrédients ✅ exclus.*
+*Commande Delhaize. Ingrédients en stock exclus.*
 
 ## 🥩 Boucherie
 - 400 g de … (samedi)

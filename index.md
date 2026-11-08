@@ -6,6 +6,12 @@
 {% for p in semaines %}- [{{ p.path | remove: "semaines/" | remove: ".md" }}]({{ p.url | relative_url }})
 {% endfor %}
 
+## Recettes
+
+{% assign recettes = site.pages | where_exp: "p", "p.path contains 'recipes/'" | sort: "title" %}
+{% for p in recettes %}- [{{ p.title }}]({{ p.url | relative_url }})
+{% endfor %}
+
 ## Historique
 
 [Tous les menus passés](historique.md)
