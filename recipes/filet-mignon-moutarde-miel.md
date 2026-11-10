@@ -1,21 +1,28 @@
 # Filet mignon moutarde-miel, choux de Bruxelles & panais rôtis
-`porc` `française` · 45 min
 
-*Une plaque au four, environ 45 min dont 10 min de préparation.*
+⏱ Une plaque au four, environ 45 min dont 10 min de préparation.
 
-### Ingrédients (2 personnes)
-- 1 filet mignon de porc (~500 g)
-- 2 c.s. de moutarde à l'ancienne
-- 1 c.s. de moutarde de Dijon
-- 1,5 c.s. de miel
-- 400 g de choux de Bruxelles
-- 3 panais
-- 2 gousses d'ail
-- 2 branches de thym frais
-- 4 c.s. d'huile d'olive
-- Sel, poivre
+*porc, française*
 
-### Recette
+**2 personnes**
+
+---
+
+- *1* filet mignon de porc (environ 500 g)
+- *2 c.s.* moutarde à l'ancienne
+- *1 c.s.* moutarde de Dijon
+- *1,5 c.s.* miel
+- *400 g* choux de Bruxelles
+- *3* panais
+- *2 gousses* ail
+- *2 branches* thym frais
+- *4 c.s.* huile d'olive
+- sel, poivre
+
+---
+
+## Recette
+
 1. Préchauffer le four à 200 °C. Sortir le filet mignon du frigo 20 min avant.
 2. Éplucher les panais et les couper en bâtonnets épais. Parer les choux de Bruxelles et les couper en deux.
 3. Étaler les légumes sur une plaque, arroser de 3 c.s. d'huile, saler, poivrer, ajouter l'ail écrasé et le thym. Enfourner 10 min.

@@ -1,22 +1,29 @@
 # Risotto au potimarron, sauge & parmesan 🌱
-`végétarien` `italienne` · 40 min
 
-*Environ 40 min. Le potimarron se cuisine avec la peau. Entamé, il se garde filmé 3-4 jours au frigo ; la sauge, dans un essuie-tout humide.*
+⏱ Environ 40 min. Le potimarron se cuisine avec la peau. Entamé, il se garde filmé 3-4 jours au frigo ; la sauge, dans un essuie-tout humide.
 
-### Ingrédients (2 personnes)
-- 500 g de potimarron (sur un potimarron de 1,2-1,5 kg)
-- 200 g de riz arborio
-- 1 L de bouillon de légumes (2 cubes)
-- 1 oignon jaune
-- 10 cl de vin blanc sec
-- 8 feuilles de sauge fraîche
-- 60 g de parmesan râpé
-- 30 g de beurre
-- 2 c.s. d'huile d'olive
-- Sel, poivre
-- Muscade
+*végétarien, italienne*
 
-### Recette
+**2 personnes**
+
+---
+
+- *500 g* potimarron (sur un potimarron de 1,2-1,5 kg)
+- *200 g* riz arborio
+- *1 L* bouillon de légumes (2 cubes)
+- *1* oignon jaune
+- *10 cl* vin blanc sec
+- *8 feuilles* sauge fraîche
+- *60 g* parmesan râpé
+- *30 g* beurre
+- *2 c.s.* huile d'olive
+- sel, poivre
+- muscade
+
+---
+
+## Recette
+
 1. Épépiner le potimarron et le couper en dés de 1,5 cm, avec la peau.
 2. Faire chauffer le bouillon et le garder frémissant sur le feu.
 3. Dans une sauteuse, faire suer l'oignon finement haché dans l'huile d'olive 4 min. Ajouter les deux tiers des dés de potimarron, cuire 5 min.

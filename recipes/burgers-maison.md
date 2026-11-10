@@ -1,37 +1,52 @@
 # Burgers maison classiques & crudités
-`bœuf` `américaine` · 30 min
 
-*Facile et rapide. Version simple, steaks épais et garniture fraîche ; pour une version plus gourmande, voir le [smash burger](smash-burger.md).*
+⏱ 30 min. Facile et rapide. Version simple, steaks épais et garniture fraîche ; pour une version plus gourmande, voir le [smash burger](smash-burger.md).
 
-### Ingrédients (2 personnes)
-**Steaks**
-- 300 g de bœuf haché à 15-20 % de matière grasse
-- Sel, poivre
-- 1 c.s. d'huile
+*bœuf, américaine*
 
-**Burgers**
-- 2 pains à burger
-- 2 tranches de cheddar ou de gouda
-- 2 feuilles de laitue
-- 1 tomate en rondelles
-- ½ oignon rouge en fines rondelles
-- 2 cornichons en lamelles
-- Ketchup, mayonnaise, moutarde
+**2 personnes**
 
-**Crudités**
-- 2 carottes râpées
-- ½ concombre en rondelles
-- 1 c.s. d'huile d'olive, ½ citron, sel, poivre
+---
 
-### Recette
-**Crudités (à faire en premier)**
+### Steaks
+
+- *300 g* bœuf haché à 15-20 % de matière grasse
+- sel, poivre
+- *1 c.s.* huile
+
+### Burgers
+
+- *2* pains à burger
+- *2 tranches* cheddar ou gouda
+- *2 feuilles* laitue
+- *1* tomate en rondelles
+- *½* oignon rouge en fines rondelles
+- *2* cornichons en lamelles
+- ketchup, mayonnaise, moutarde
+
+### Crudités
+
+- *2* carottes râpées
+- *½* concombre en rondelles
+- *1 c.s.* huile d'olive
+- *½* citron
+- sel, poivre
+
+---
+
+## Recette
+
+### Crudités (à faire en premier)
+
 1. Râper les carottes, couper le concombre. Assaisonner séparément avec l'huile, le jus de citron, le sel et le poivre.
 
-**Steaks**
+### Steaks
+
 1. Former 2 steaks de 150 g, à peine plus larges que les pains (ils rétrécissent). Faire un léger creux au centre avec le pouce pour qu'ils ne gonflent pas.
 2. Saler, poivrer juste avant la cuisson. Cuire à feu vif dans l'huile 3 min par face pour une cuisson à point. Poser le fromage la dernière minute, couvrir pour le faire fondre.
 
-**Montage**
+### Montage
+
 1. Toaster les pains coupés à la poêle 1 min. Pain du bas : sauce, laitue, steak au fromage, tomate, oignon, cornichons, pain du haut.
 2. Servir avec les crudités.
 

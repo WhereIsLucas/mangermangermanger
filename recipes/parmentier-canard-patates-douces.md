@@ -1,29 +1,43 @@
 # Parmentier de canard & patates douces, salade verte
-`volaille` `française` · 1 h 10
 
-*Environ 1 h 10, dont 25 min de four. Les cuisses confites en boîte font gagner tout le temps de cuisson du canard.*
+⏱ Environ 1 h 10, dont 25 min de four. Les cuisses confites en boîte font gagner tout le temps de cuisson du canard.
 
-### Ingrédients (2 personnes)
+*volaille, française*
 
-**Effiloché de canard**
-- 3 cuisses de canard confites (1 boîte de 3-4 cuisses)
-- 2 échalotes
-- 1 gousse d'ail
-- ½ bouquet de persil plat
-- Poivre
+**2 personnes**
 
-**Purée**
-- 800 g de patates douces
-- 20 g de beurre
-- 1 pincée de muscade
-- Sel
+---
 
-**Dessus & accompagnement**
-- 2 c.s. de chapelure
-- 1 laitue ou feuille de chêne
-- Vinaigrette : 2 c.s. d'huile d'olive, 1 c.s. de vinaigre, ½ c.c. de moutarde de Dijon
+### Effiloché de canard
 
-### Recette
+- *3* cuisses de canard confites (1 boîte de 3-4 cuisses)
+- *2* échalotes
+- *1 gousse* ail
+- *½ bouquet* persil plat
+- poivre
+
+### Purée
+
+- *800 g* patates douces
+- *20 g* beurre
+- *1 pincée* muscade
+- sel
+
+### Dessus & accompagnement
+
+- *2 c.s.* chapelure
+- *1* laitue ou feuille de chêne
+
+### Vinaigrette
+
+- *2 c.s.* huile d'olive
+- *1 c.s.* vinaigre
+- *½ c.c.* moutarde de Dijon
+
+---
+
+## Recette
+
 1. Ouvrir la boîte et la poser quelques minutes dans de l'eau chaude pour liquéfier la graisse. Retirer les cuisses et garder 2 c.s. de graisse.
 2. Éplucher les patates douces, les couper en gros cubes et les cuire 15-18 min à l'eau salée, jusqu'à ce qu'elles soient très tendres.
 3. Pendant ce temps, retirer la peau et les os des cuisses. Effilocher la chair à la fourchette.

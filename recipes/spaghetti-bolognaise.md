@@ -1,32 +1,43 @@
 # Spaghetti bolognaise & salade de mâche
-`bœuf` `italienne` · 1 h · classique maison
 
-*Environ 1 h, dont 45 min de mijotage. Pour congeler une portion, doubler la sauce (800 g de bœuf, 2 boîtes de tomates).*
+⏱ Environ 1 h, dont 45 min de mijotage. Pour congeler une portion, doubler la sauce (800 g de bœuf, 2 boîtes de tomates).
 
-### Ingrédients (2 personnes)
+*bœuf, italienne, classique maison*
 
-**Sauce**
-- 400 g de bœuf haché
-- 1 oignon jaune
-- 1 carotte
-- 1 branche de céleri
-- 2 gousses d'ail
-- 1 boîte de tomates concassées (400 g)
-- 2 c.s. de concentré de tomate
-- 10 cl de vin rouge *(optionnel)*
-- 1 c.c. d'origan séché
-- 2 c.s. d'huile d'olive
-- Sel, poivre
+**2 personnes**
 
-**Pâtes & service**
-- 250 g de spaghetti
-- Parmesan râpé
+---
 
-**Salade de mâche**
-- 1 sachet de mâche (~150 g)
-- 2 c.s. d'huile d'olive, 1 c.s. de vinaigre, ½ c.c. de moutarde de Dijon
+### Sauce
 
-### Recette
+- *400 g* bœuf haché
+- *1* oignon jaune
+- *1* carotte
+- *1 branche* céleri
+- *2 gousses* ail
+- *1 boîte* tomates concassées (400 g)
+- *2 c.s.* concentré de tomate
+- *10 cl* vin rouge (optionnel)
+- *1 c.c.* origan séché
+- *2 c.s.* huile d'olive
+- sel, poivre
+
+### Pâtes & service
+
+- *250 g* spaghetti
+- parmesan râpé
+
+### Salade de mâche
+
+- *1 sachet* mâche (environ 150 g)
+- *2 c.s.* huile d'olive
+- *1 c.s.* vinaigre
+- *½ c.c.* moutarde de Dijon
+
+---
+
+## Recette
+
 1. Hacher finement l'oignon, la carotte et le céleri (soffritto). Les faire suer dans l'huile d'olive à feu moyen 8 min, jusqu'à ce qu'ils soient tendres.
 2. Ajouter l'ail haché, cuire 1 min.
 3. Monter le feu, ajouter le bœuf haché. Faire dorer en émiettant 6-8 min, en laissant colorer sans trop remuer.

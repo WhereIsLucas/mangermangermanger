@@ -1,18 +1,25 @@
 # Granola maison noix-noisettes-miel (1 grand bocal)
-`petit-déj` `batch` · 30 min
 
-*Se cuit en même temps que les [baked oats](baked-oats-pomme-cannelle.md). Tient 2 semaines en bocal.*
+⏱ 30 min. Se cuit en même temps que les [baked oats](baked-oats-pomme-cannelle.md). Tient 2 semaines en bocal.
 
-### Ingrédients
-- 250 g de flocons d'avoine
-- 100 g de noisettes et noix concassées
-- 40 g de graines de courge ou de tournesol
-- 4 c.s. de miel
-- 3 c.s. d'huile neutre
-- 1 c.c. de cannelle
-- 1 pincée de sel
+*petit-déj, batch*
 
-### Recette
+**1 grand bocal**
+
+---
+
+- *250 g* flocons d'avoine
+- *100 g* noisettes et noix concassées
+- *40 g* graines de courge ou de tournesol
+- *4 c.s.* miel
+- *3 c.s.* huile neutre
+- *1 c.c.* cannelle
+- *1 pincée* sel
+
+---
+
+## Recette
+
 1. Baisser le four à 170 °C (ou enfourner avant les baked oats).
 2. Faire tiédir le miel et l'huile 20 secondes au micro-ondes. Mélanger avec tous les ingrédients secs jusqu'à ce que tout soit enrobé.
 3. Étaler en couche fine sur une plaque recouverte de papier cuisson. Tasser légèrement pour former des grappes.

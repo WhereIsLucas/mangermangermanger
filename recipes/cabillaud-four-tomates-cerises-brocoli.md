@@ -1,22 +1,29 @@
 # Cabillaud au four, tomates cerises confites, olives & brocoli rôti
-`poisson` `méditerranéenne` · 35 min
 
-*Tout sur une seule plaque, environ 35 min.*
+⏱ Tout sur une seule plaque, environ 35 min.
 
-### Ingrédients (2 personnes)
-- 2 filets de cabillaud (~300 g)
-- 250 g de tomates cerises
-- 1 gros brocoli (~500 g)
-- 80 g d'olives noires (kalamata)
-- 1 c.s. de câpres
-- 3 gousses d'ail
-- 1 citron (zeste + jus)
-- 3-4 branches de thym frais
-- 5 c.s. d'huile d'olive
-- Sel, poivre
-- Pain de campagne pour saucer
+*poisson, méditerranéenne*
 
-### Recette
+**2 personnes**
+
+---
+
+- *2 filets* cabillaud (environ 300 g)
+- *250 g* tomates cerises
+- *1* gros brocoli (environ 500 g)
+- *80 g* olives noires (kalamata)
+- *1 c.s.* câpres
+- *3 gousses* ail
+- *1* citron (zeste + jus)
+- *3 branches* thym frais (3-4)
+- *5 c.s.* huile d'olive
+- sel, poivre
+- pain de campagne pour saucer
+
+---
+
+## Recette
+
 1. Préchauffer le four à 210 °C.
 2. Détailler le brocoli en petits bouquets, peler la tige et la couper en rondelles. Étaler sur une grande plaque avec les tomates cerises entières et l'ail écrasé en chemise.
 3. Arroser de 3 c.s. d'huile d'olive, saler, poivrer, ajouter le thym. Mélanger à la main et enfourner 15 min.

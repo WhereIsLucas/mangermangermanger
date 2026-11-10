@@ -1,22 +1,29 @@
 # Muffins potimarron, épices & noix (10 muffins)
-`petit-déj` `batch` · 40 min
 
-*Environ 15 min de préparation et 25 min de four. Bon usage d'un reste de potimarron (par ex. celui du [risotto](risotto-potimarron-sauge.md)).*
+⏱ 40 min. Environ 15 min de préparation et 25 min de four. Bon usage d'un reste de potimarron (par ex. celui du [risotto](risotto-potimarron-sauge.md)).
 
-### Ingrédients (10 muffins)
-- 250 g de potimarron
-- 200 g de farine
-- 100 g de sucre roux (ou cassonade)
-- 2 œufs
-- 80 ml d'huile neutre
-- 80 ml de lait
-- 1,5 c.c. de levure chimique
-- ½ c.c. de bicarbonate
-- 2 c.c. d'épices à pain d'épices (ou 1 c.c. de cannelle + ½ c.c. de gingembre moulu + 1 pincée de muscade)
-- 1 pincée de sel
-- 50 g de noix concassées
+*petit-déj, batch*
 
-### Recette
+**10 muffins**
+
+---
+
+- *250 g* potimarron
+- *200 g* farine
+- *100 g* sucre roux (ou cassonade)
+- *2* œufs
+- *80 ml* huile neutre
+- *80 ml* lait
+- *1,5 c.c.* levure chimique
+- *½ c.c.* bicarbonate
+- *2 c.c.* épices à pain d'épices (ou 1 c.c. de cannelle + ½ c.c. de gingembre moulu + 1 pincée de muscade)
+- *1 pincée* sel
+- *50 g* noix concassées
+
+---
+
+## Recette
+
 1. Couper le potimarron en dés avec la peau, les cuire 12 min à la vapeur ou 4-5 min au micro-ondes couvert avec un fond d'eau. Écraser finement en purée et laisser tiédir.
 2. Préchauffer le four à 180 °C. Placer 10 caissettes dans un moule à muffins.
 3. Fouetter les œufs et le sucre 1 min. Ajouter l'huile, le lait et la purée de potimarron.

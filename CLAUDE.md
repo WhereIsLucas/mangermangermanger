@@ -48,10 +48,11 @@ Les recettes vivent dans `recipes/`, **une recette par fichier** (`recipes/<slug
 
 Structure du fichier de la semaine (partir de `semaines/_modele.md`) : titre → ligne « 2 personnes » → tableau | Jour | Plat | Pour | où chaque plat est un lien `[Plat](../recipes/<slug>.md)` → ligne de stock → **Organisation de la semaine** (tout ce qui est propre à cette semaine : batch, restes, légume partagé entre deux plats, ce qui se prépare la veille, quantités adaptées si on n'est pas 2) → liste de courses.
 
-1. **Recettes** (`recipes/`, partir de `recipes/_modele.md`) : génériques, pas de jour ni de ✅ (le stock est propre à une semaine), avec :
-   - titre = nom du plat, puis une ligne de tags (protéine, cuisine, comme dans `historique.md`) et la durée
-   - **Ingrédients (2 personnes)** groupés par composant (ex. Kofta / Salade / Sauce tahini)
-   - **Recette** en sous-parties nommées par composant, avec l'ordre de préparation indiqué (« à faire en premier », « peut se faire la veille »)
+1. **Recettes** (`recipes/`, partir de `recipes/_modele.md`) : au format **[RecipeMD](https://recipemd.org/specification.html)** (règles en commentaire à la fin du modèle), génériques, pas de jour ni de ✅ (le stock est propre à une semaine), avec :
+   - titre H1 = nom du plat, puis une description non italique commençant par « ⏱ durée » et les remarques, puis les tags en italique `*protéine, cuisine*` (comme dans `historique.md`), puis le rendement en gras `**2 personnes**`, puis `---`
+   - ingrédients groupés par composant sous des titres `###` (ex. Kofta / Salade / Sauce tahini), un par ligne, quantité en italique en tête (`*400 g* bœuf haché`), puis `---`
+   - `## Recette` en sous-parties `###` nommées par composant, avec l'ordre de préparation indiqué (« à faire en premier », « peut se faire la veille »)
+   - Valider le format : `recipemd` (CLI Python) si installé, sinon relire les règles du modèle
    - Accompagnement légumes explicite
    - Portion de l'enfant toujours signalée en fin de fiche : ligne `👶 *Portion bébé : …*` (ce qu'il faut prélever, avant sel / épices / sucre)
    - Liens entre recettes liées (ex. granola ↔ baked oats cuits ensemble) : `[texte](autre-slug.md)`
