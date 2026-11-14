@@ -1,8 +1,8 @@
-# Plateau TV : gravlax, crudités & houmous, edamame, pois chiches rôtis, feta marinée
+# Plateau TV : gravlax, poulet teriyaki, crudités, houmous & tzatziki, feta marinée, fruits & comté
 
-⏱ 30 min le jour J, si le [gravlax](gravlax-maison.md) et la feta sont préparés à l'avance (gravlax 48 h avant, feta la veille ou plus tôt). Facile. Un plateau à grignoter devant un film, avec beaucoup de légumes. Houmous maison en 5 min au mixeur, ou un pot du commerce.
+⏱ 40 min le jour J, si le [gravlax](gravlax-maison.md) et la feta sont préparés à l'avance (gravlax 48 h avant, feta la veille ou plus tôt). Facile. Un plateau à grignoter devant un film, avec beaucoup de légumes. Houmous maison en 5 min au mixeur, ou un pot du commerce. Brochettes de poulet teriyaki achetées toutes faites (traiteur).
 
-*poisson, végétarien, méditerranéenne, suédoise*
+*poisson, volaille, végétarien, méditerranéenne, suédoise*
 
 **2 personnes**
 
@@ -12,6 +12,26 @@
 
 - [Gravlax maison & sauce moutarde-aneth](gravlax-maison.md)
 - *1 paquet* blinis (ou pain de seigle)
+
+### Poulet teriyaki
+
+- *1 barquette* brochettes de poulet teriyaki toutes faites (traiteur, environ 6 brochettes)
+
+### Tzatziki
+
+- *250 g* yaourt grec
+- *½* concombre
+- *1* gousse d'ail
+- *1 c.s.* aneth haché (ou menthe)
+- *1 c.s.* huile d'olive
+- *1 c.c.* jus de citron
+- sel
+
+### Fruits & fromage
+
+- *1* pomme
+- *1* poire
+- *100 g* comté
 
 ### Feta marinée
 
@@ -75,6 +95,11 @@
 1. Égoutter les pois chiches en gardant 3-4 c.s. du liquide de la boîte.
 2. Mixer avec le tahini, le jus de citron, l'ail, le cumin et une pincée de sel. Ajouter le liquide de la boîte jusqu'à obtenir une texture bien lisse, puis l'huile d'olive. Goûter et rectifier.
 
+### Tzatziki (peut se faire le matin)
+
+1. Râper le concombre avec la peau, le saler légèrement et le laisser dégorger 10 min, puis le presser fort dans les mains ou un essuie.
+2. Mélanger avec le yaourt, l'ail râpé, l'aneth, l'huile et le citron. Saler. Frigo.
+
 ### Crudités
 
 1. Couper les carottes, le concombre et le poivron en bâtonnets, les radis en deux, et effeuiller l'endive.
@@ -84,8 +109,16 @@
 1. Cuire les edamame 4-5 min à l'eau bouillante salée, puis égoutter.
 2. Les faire sauter 1 min à la poêle avec un filet d'huile, le sésame, la fleur de sel et le piment.
 
+### Poulet teriyaki (pendant les pois chiches)
+
+1. Réchauffer les brochettes 8-10 min au four avec les pois chiches, ou à la poêle.
+
+### Fruits & comté (au dernier moment)
+
+1. Couper la pomme et la poire en lamelles (un filet de citron pour qu'elles ne noircissent pas) et le comté en bâtonnets.
+
 ### Dressage
 
-1. Trancher le gravlax et réchauffer les blinis 2-3 min au grille-pain ou au four. Tout disposer sur une grande planche : gravlax, blinis, sauce moutarde-aneth, houmous entouré des crudités, bol d'edamame, bol de pois chiches rôtis, bocal de feta.
+1. Trancher le gravlax et réchauffer les blinis 2-3 min au grille-pain ou au four. Tout disposer sur une grande planche : gravlax, blinis, sauce moutarde-aneth, brochettes de poulet, houmous et tzatziki entourés des crudités, fruits et comté, bol d'edamame, bol de pois chiches rôtis, bocal de feta.
 
-👶 *Portion bébé : saumon frais cuit à la vapeur (voir [gravlax](gravlax-maison.md)), houmous prélevé avant le sel, carottes en bâtonnets cuites 8 min à la vapeur, concombre en bâtonnets, quelques edamame écossés et écrasés sans sel. Peu de feta : elle est très salée.*
+👶 *Portion bébé : saumon frais cuit à la vapeur (voir [gravlax](gravlax-maison.md)), houmous prélevé avant le sel, un peu de yaourt nature (pas de tzatziki : ail cru), pomme et poire en lamelles fines ou cuites, quelques bâtonnets de comté, carottes en bâtonnets cuites 8 min à la vapeur, concombre en bâtonnets, quelques edamame écossés et écrasés sans sel. Peu de feta : elle est très salée. Pas de poulet teriyaki (sauce sucrée-salée).*

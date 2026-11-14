@@ -60,7 +60,7 @@ Structure du fichier de la semaine (partir de `semaines/_modele.md`) : titre →
 2. **Liste de courses** (en fin de fichier de la semaine), pour une commande en ligne chez Delhaize :
    - Section **🥩 Boucherie** en premier (viandes, charcuterie, avec le repas concerné entre parenthèses)
    - Puis **🛒 Supermarché**, **groupé par repas** (pas par rayon)
-   - Puis **🧺 Mutualisé sur la semaine** : ingrédients de base partagés (pommes de terre, crème, lait, beurre, oignons, ail…) avec quantité totale et détail par repas
+   - Pas de section « mutualisé » : un ingrédient utilisé dans plusieurs repas apparaît dans chacun, avec la quantité de ce repas
    - Ingrédients en stock exclus
    - Ingrédients spécialisés à acheter en épicerie asiatique listés à part (ex. cubes pho bò Bao Long, MSG)
 

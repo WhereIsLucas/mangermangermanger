@@ -29,14 +29,10 @@
 
 ## 🛒 Supermarché
 ### Samedi 14 — Nom du plat
-- …
+- … (un ingrédient partagé entre deux repas apparaît dans les deux, avec la quantité de chacun)
 
 ### Dimanche 15 — Nom du plat
 - …
-
-## 🧺 Mutualisé sur la semaine
-- 1 kg de pommes de terre (samedi 500 g, mardi 500 g)
-- 2 oignons (samedi, jeudi)
 
 ## 🥢 Épicerie asiatique
 - … (uniquement si nécessaire)

@@ -11,7 +11,7 @@ Quand la recette existe dans `recipes/`, le nom du plat est un lien vers elle.
 
 ## Lun 16 nov au Sam 21 nov 2026 (semaine en cours)
 - Choucroute garnie (boucherie, Julianne mardi, restes Lucas jeudi) `porc` `française` `batch`
-- [Plateau TV : gravlax, crudités & houmous, edamame, pois chiches rôtis, feta marinée](recipes/plateau-tv-gravlax.md) `poisson` `végétarien` `suédoise` `méditerranéenne`
+- [Plateau TV : gravlax, poulet teriyaki, crudités, houmous & tzatziki, feta marinée, fruits & comté](recipes/plateau-tv-gravlax.md) `poisson` `volaille` `végétarien` `suédoise` `méditerranéenne`
 - [Steak au poivre, haricots verts & pommes grenaille rôties](recipes/steak-au-poivre-haricots-grenaille.md) `bœuf` `française`
 - [Lahmacun à l'agneau, salade oignon-persil-sumac & yaourt à l'ail](recipes/lahmacun-agneau.md) `agneau` `turque`
 
