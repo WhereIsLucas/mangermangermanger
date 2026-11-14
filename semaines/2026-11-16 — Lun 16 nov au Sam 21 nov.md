@@ -20,7 +20,7 @@
 - **Mercredi 18** : plateau TV (40 min). Pois chiches rôtis au four en premier, poulet teriyaki réchauffé dans le même four les 10 dernières minutes, puis houmous, tzatziki, crudités, edamame, et fruits & comté au dernier moment. Avec le gravlax, la sauce moutarde-aneth peut se faire mardi. S'il reste du gravlax, il se garde jusqu'à samedi : pour les tartines du week-end.
 - **Jeudi 19** : Lucas réchauffe la seconde portion de choucroute avec les pommes de terre restantes.
 - **Vendredi 20** : sortir les steaks 30 min avant.
-- **Samedi 21** : la garniture du lahmacun peut se mixer le matin. Le concombre, le poivron rouge et le persil sont partagés avec le plateau de mercredi.
+- **Samedi 21** : pâte maison à lancer vers 17 h 30 pour manger à 19 h (1 h de levée, pendant laquelle on prépare garniture et salade). La garniture peut aussi se mixer le matin. Le concombre, le poivron rouge et le persil sont partagés avec le plateau de mercredi.
 
 ---
 
@@ -70,7 +70,7 @@
 - 1 petite bouteille de cognac *(si pas en stock)*
 
 ### Samedi 21 — Lahmacun à l'agneau
-- 2 rouleaux de pâte à pizza fine
+- 1 sachet de levure sèche de boulanger
 - 1 oignon jaune
 - 1 oignon rouge
 - 3 tomates
@@ -133,7 +133,7 @@
 - [1 petite bouteille de cognac *(si pas en stock)*](https://www.delhaize.be/shop/search?text=cognac)
 
 **🫓 Samedi 21 — Lahmacun à l'agneau**
-- [2 rouleaux de pâte à pizza fine](https://www.delhaize.be/shop/search?text=p%C3%A2te+%C3%A0+pizza)
+- [1 sachet de levure sèche de boulanger](https://www.delhaize.be/shop/search?text=levure+s%C3%A8che)
 - [1 oignon jaune](https://www.delhaize.be/shop/search?text=oignons)
 - [1 oignon rouge](https://www.delhaize.be/shop/search?text=oignon+rouge)
 - [3 tomates](https://www.delhaize.be/shop/search?text=tomates)
