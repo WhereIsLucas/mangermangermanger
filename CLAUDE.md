@@ -42,7 +42,7 @@ Tu es un assistant spécialisé dans la planification des repas du soir hebdomad
 - Un peu de jus de citron dans une marinade ne « cuit » pas des tranches de viande épaisses
 
 ## Documents à générer
-Toujours en fichier `.md` local (jamais de doc Claude / artifact). Un fichier markdown par semaine, dans `semaines/`, nommé `Recettes — [Jour abrégé] [date] au [Jour abrégé] [date].md` (ex. `Recettes — Sam 28 fév au Jeu 5 mars.md`) ; même texte pour le titre du document.
+Toujours en fichier `.md` local (jamais de doc Claude / artifact). Un fichier markdown par semaine, dans `semaines/`, nommé `AAAA-MM-JJ — [Jour abrégé] [date] au [Jour abrégé] [date].md` avec la date ISO du premier jour en préfixe, pour un tri alphabétique = chronologique (ex. `2026-02-28 — Sam 28 fév au Jeu 5 mars.md`) ; titre du document : `Recettes — Sam 28 fév au Jeu 5 mars`.
 
 Les recettes vivent dans `recipes/`, **une recette par fichier** (`recipes/<slug>.md`, slug en minuscules sans accents, ex. `risotto-potimarron-sauge.md`), réutilisables d'une semaine à l'autre : avant d'écrire une recette, vérifier si elle existe déjà dans `recipes/` (la réutiliser, ou l'améliorer). Le fichier de la semaine ne contient pas les recettes : il **fait des liens** vers elles.
 

@@ -4,12 +4,18 @@ Plus récent en haut. Consulter avant chaque proposition pour éviter les répé
 
 **Tags** (à mettre sur chaque plat, en fin de ligne) :
 - **Protéine** : `bœuf` `veau` `agneau` `porc` `volaille` `poisson` `fruits-de-mer` `végétarien` (plusieurs si le plat en a plusieurs ; jambon, lardons et chorizo comptent comme `porc`, canard comme `volaille`)
-- **Cuisine** : `italienne` `grecque` `espagnole` `libanaise` `méditerranéenne` (générique) `marocaine` `française` `belge` `tex-mex` `mexicaine` `péruvienne` `américaine` `suédoise` `moyen-orientale` `indienne` `thaïe` `vietnamienne` `chinoise` `japonaise` `coréenne` `hawaïenne`
+- **Cuisine** : `italienne` `grecque` `espagnole` `libanaise` `méditerranéenne` (générique) `marocaine` `française` `belge` `turque` `tex-mex` `mexicaine` `péruvienne` `américaine` `suédoise` `moyen-orientale` `indienne` `thaïe` `vietnamienne` `chinoise` `japonaise` `coréenne` `hawaïenne`
 - **Autres** (optionnels) : `batch`, `petit-déj`, `midi`, `resto`/`box` (pas cuisiné)
 
 Quand la recette existe dans `recipes/`, le nom du plat est un lien vers elle.
 
-## Lun 9 nov au Sam 14 nov 2026 (semaine en cours)
+## Lun 16 nov au Sam 21 nov 2026 (semaine en cours)
+- Choucroute garnie (boucherie, Julianne mardi, restes Lucas jeudi) `porc` `française` `batch`
+- [Plateau TV : gravlax, crudités & houmous, edamame, pois chiches rôtis, feta marinée](recipes/plateau-tv-gravlax.md) `poisson` `végétarien` `suédoise` `méditerranéenne`
+- [Steak au poivre, haricots verts & pommes grenaille rôties](recipes/steak-au-poivre-haricots-grenaille.md) `bœuf` `française`
+- [Lahmacun à l'agneau, salade oignon-persil-sumac & yaourt à l'ail](recipes/lahmacun-agneau.md) `agneau` `turque`
+
+## Lun 9 nov au Sam 14 nov 2026
 - [Cabillaud au four, tomates cerises confites, olives & brocoli rôti](recipes/cabillaud-four-tomates-cerises-brocoli.md) `poisson` `méditerranéenne`
 - [Filet mignon moutarde-miel, choux de Bruxelles & panais rôtis](recipes/filet-mignon-moutarde-miel.md) `porc` `française`
 - [Spaghetti bolognaise & salade de mâche](recipes/spaghetti-bolognaise.md) `bœuf` `italienne`
