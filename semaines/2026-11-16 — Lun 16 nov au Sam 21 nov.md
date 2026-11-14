@@ -77,3 +77,54 @@
 - Sumac (salade du lahmacun)
 - Piment d'Alep (pul biber)
 - Biber salçası (pâte de piment)
+
+---
+
+# Liens Delhaize
+*Un lien de recherche par article, à ouvrir et ajouter au panier.*
+
+**🥩 Boucherie**
+- [Choucroute garnie (2 portions)](https://www.delhaize.be/shop/search?text=choucroute+garnie)
+- [2 steaks faux-filet / rumsteck](https://www.delhaize.be/shop/search?text=faux-filet)
+- [250 g d'agneau haché](https://www.delhaize.be/shop/search?text=agneau+hach%C3%A9)
+
+**🐟 Plateau TV (mercredi)**
+- [Saumon 400 g, surgelé ou qualité sushi](https://www.delhaize.be/shop/search?text=filet+de+saumon)
+- [Aneth](https://www.delhaize.be/shop/search?text=aneth)
+- [Blinis](https://www.delhaize.be/shop/search?text=blinis)
+- [Feta 200 g](https://www.delhaize.be/shop/search?text=feta)
+- [2 boîtes de pois chiches](https://www.delhaize.be/shop/search?text=pois+chiches)
+- [Tahini](https://www.delhaize.be/shop/search?text=tahini)
+- [Edamame surgelés](https://www.delhaize.be/shop/search?text=edamame)
+- [Carottes](https://www.delhaize.be/shop/search?text=carottes)
+- [Radis](https://www.delhaize.be/shop/search?text=radis)
+- [Endive](https://www.delhaize.be/shop/search?text=chicons)
+
+**🥩 Steak au poivre (vendredi)**
+- [Pommes grenaille 500 g](https://www.delhaize.be/shop/search?text=grenaille)
+- [Haricots verts extra-fins 300 g](https://www.delhaize.be/shop/search?text=haricots+verts)
+- [Échalote](https://www.delhaize.be/shop/search?text=%C3%A9chalote)
+- [Cognac (si pas en stock)](https://www.delhaize.be/shop/search?text=cognac)
+- [Thym frais](https://www.delhaize.be/shop/search?text=thym+frais)
+
+**🫓 Lahmacun (samedi)**
+- [2 pâtes à pizza fines](https://www.delhaize.be/shop/search?text=p%C3%A2te+%C3%A0+pizza)
+- [Oignon jaune](https://www.delhaize.be/shop/search?text=oignons)
+- [Oignon rouge](https://www.delhaize.be/shop/search?text=oignon+rouge)
+- [3 tomates](https://www.delhaize.be/shop/search?text=tomates)
+- [Yaourt grec 150 g](https://www.delhaize.be/shop/search?text=yaourt+grec)
+
+**🧺 Mutualisé**
+- [500 g pommes de terre chair ferme](https://www.delhaize.be/shop/search?text=pommes+de+terre+chair+ferme)
+- [4 citrons](https://www.delhaize.be/shop/search?text=citrons)
+- [Ail](https://www.delhaize.be/shop/search?text=ail)
+- [Concombre](https://www.delhaize.be/shop/search?text=concombre)
+- [Poivron rouge](https://www.delhaize.be/shop/search?text=poivron+rouge)
+- [Persil plat](https://www.delhaize.be/shop/search?text=persil+plat)
+- [Crème fraîche épaisse 20 cl](https://www.delhaize.be/shop/search?text=cr%C3%A8me+fra%C3%AEche+%C3%A9paisse)
+- [Beurre](https://www.delhaize.be/shop/search?text=beurre)
+
+**🧆 Optionnel**
+- [Sumac](https://www.delhaize.be/shop/search?text=sumac)
+- [Piment d'Alep](https://www.delhaize.be/shop/search?text=piment+d%27alep)
+- [Gin / aquavit (gravlax)](https://www.delhaize.be/shop/search?text=gin)
