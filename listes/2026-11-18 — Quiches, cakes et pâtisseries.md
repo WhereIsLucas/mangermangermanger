@@ -24,15 +24,15 @@ Liste groupée par recette ; un ingrédient commun apparaît dans chaque recette
 - [400 g de farine](https://www.delhaize.be/shop/search?text=farine)
 - [2 sachets de levure chimique](https://www.delhaize.be/shop/search?text=levure+chimique)
 
-**🍎 Cake aux pommes + glaçage**
-- [4 pommes (Boskoop ou Jonagold)](https://www.delhaize.be/shop/search?text=pommes+jonagold)
+**🍎 Gâteau aux pommes + glaçage** — [recette Marmiton](https://www.marmiton.org/recettes/recette_gateau-aux-pommes-facile_13493.aspx) (6 parts, 160 °C, 40-50 min)
+- [3 pommes (Boskoop ou Jonagold)](https://www.delhaize.be/shop/search?text=pommes+jonagold)
 - [3 œufs](https://www.delhaize.be/shop/search?text=oeufs)
-- [100 g de beurre](https://www.delhaize.be/shop/search?text=beurre)
-- [200 g de sucre](https://www.delhaize.be/shop/search?text=sucre)
-- [250 g de farine](https://www.delhaize.be/shop/search?text=farine)
-- [1 sachet de levure chimique](https://www.delhaize.be/shop/search?text=levure+chimique)
+- [120 g de sucre semoule](https://www.delhaize.be/shop/search?text=sucre)
+- [125 g de farine](https://www.delhaize.be/shop/search?text=farine)
+- [½ sachet de levure chimique](https://www.delhaize.be/shop/search?text=levure+chimique)
 - [1 sachet de sucre vanillé](https://www.delhaize.be/shop/search?text=sucre+vanill%C3%A9)
-- [Cannelle](https://www.delhaize.be/shop/search?text=cannelle)
+- [½ verre d'huile de colza (environ 10 cl)](https://www.delhaize.be/shop/search?text=huile+de+colza)
+- [Un peu de beurre (moule)](https://www.delhaize.be/shop/search?text=beurre)
 - [150 g de sucre glace (glaçage)](https://www.delhaize.be/shop/search?text=sucre+glace)
 - [1 citron (glaçage, ou sirop d'érable)](https://www.delhaize.be/shop/search?text=citrons)
 
@@ -75,12 +75,13 @@ Liste groupée par recette ; un ingrédient commun apparaît dans chaque recette
 | Ingrédient | Total |
 |---|---|
 | Œufs | 18 |
-| Farine | 1 030 g |
-| Sucre blanc | 320 g |
+| Farine | 905 g |
+| Sucre blanc | 240 g |
 | Cassonade | 150 g |
 | Chocolat noir pâtissier | 150 g + 100 g de pépites |
 | Crème liquide | 50 cl (entière pour la ganache) |
 | Lait | 60 cl |
-| Beurre | 180 g |
-| Levure chimique | 4 sachets |
+| Beurre | 80 g + un peu pour le moule |
+| Levure chimique | 3,5 sachets (4) |
+| Huile de colza | 10 cl |
 | Sucre vanillé | 2 sachets |
