@@ -66,8 +66,6 @@ Liste groupée par recette ; un ingrédient commun apparaît dans chaque recette
 - [Vermicelles ou perles de décoration *(optionnel)*](https://www.delhaize.be/shop/search?text=d%C3%A9coration+g%C3%A2teau)
 - [Bâtonnets à popcakes](https://www.delhaize.be/shop/search?text=b%C3%A2tonnets+cake+pops)
 
-> ⚠️ Gâteau au chocolat : la recette donnée n'a ni levure ni bicarbonate, et presque pas de liquide. Vérifier la source (souvent environ 12 cl de lait ou d'eau chaude et ½-1 c.c. de bicarbonate).
-
 > 🫙 Ganache : faire chauffer la crème, la verser sur le chocolat haché, attendre 1 min puis lisser. Napper tiède ou laisser figer pour étaler.
 
 ## Totaux (achats groupés)
