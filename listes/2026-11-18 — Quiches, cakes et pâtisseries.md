@@ -14,7 +14,7 @@ Liste groupée par recette ; un ingrédient commun apparaît dans chaque recette
 - [20 cl de lait](https://www.delhaize.be/shop/search?text=lait+demi-%C3%A9cr%C3%A9m%C3%A9)
 - [Noix concassées *(optionnel)*](https://www.delhaize.be/shop/search?text=cerneaux+de+noix)
 
-**🧀 2 cakes salés chorizo / feta**
+**🧀 2 cakes salés chorizo / feta** — [recette](../recipes/cake-sale-chorizo-feta.md) (×2)
 - [300 g de feta](https://www.delhaize.be/shop/search?text=feta)
 - [200 g d'emmental râpé](https://www.delhaize.be/shop/search?text=emmental+r%C3%A2p%C3%A9)
 - [160 g d'olives vertes dénoyautées *(optionnel)*](https://www.delhaize.be/shop/search?text=olives+vertes+d%C3%A9noyaut%C3%A9es)
